@@ -2,7 +2,6 @@
 A small module that adds the ability to record the end of the player connection or start the server.
 
 ## Functions
-
 ### `[SHARED]` game.IsReady()
 - Return: `boolean` - true if the startup is complete.
 

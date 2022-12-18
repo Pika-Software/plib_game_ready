@@ -1,7 +1,7 @@
 # Game Ready
 A small module that adds the ability to record the end of the player connection or start the server.
 
-##Requires
+## Requires
 - [PLib](https://github.com/Pika-Software/gmod_plib)
 
 ## Functions
